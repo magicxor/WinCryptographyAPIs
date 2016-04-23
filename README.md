@@ -1,7 +1,7 @@
 # WinCryptographyAPIs
 Windows CryptoAPI and Cryptography API: Next Generation for Delphi
 
-This code is originally written 06.10.2013 by vanilla (http://vanillasky-room.cocolog-nifty.com/blog/2013/10/cryptoapi-and-c.html) and dual licensed under MPL / LGPL.
+This code was originally written 06.10.2013 by vanilla (http://vanillasky-room.cocolog-nifty.com/blog/2013/10/cryptoapi-and-c.html) and dual licensed under MPL / LGPL.
 
 CryptoAPI:
 
